@@ -1,0 +1,14 @@
+Elite Empire Cpannel
+
+URL: https://www.goVERUM.com/cpanel
+username: thetruth
+password: EeWhole*1029
+
+
+DB_DATABASE=thetruth_verum
+DB_USERNAME=thetruth_verum
+DB_PASSWORD=2#YjAgmJT%hS
+
+
+thetruth_test
+&AIi[CZ1NgeY
